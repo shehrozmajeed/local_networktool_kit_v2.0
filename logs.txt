@@ -1,0 +1,25 @@
+[2025-08-02 18:17:44] [INFO] 
+Live Hosts Found:
+✅ 10.0.2.15
+✅ 10.0.2.2
+✅ 10.0.2.3
+
+[2025-08-02 18:18:21] [INFO] 
+Live Hosts Found:
+✅ 10.1.167.34
+
+[2025-08-02 18:28:44] [INFO] 
+Live Hosts Found:
+✅ 10.0.2.15
+✅ 10.0.2.2
+✅ 10.0.2.3
+
+[2025-08-03 07:03:18] [INFO] 
+Live Hosts Found:
+✅ 10.0.2.15
+✅ 10.0.2.2
+✅ 10.0.2.3
+
+[2025-08-03 07:04:36] [INFO] MITM attack started on 10.0.2.15 via 10.0.2.255
+[2025-08-03 07:04:36] [ERROR] MITM error: name 'srp' is not defined
+[2025-08-03 07:06:18] [INFO] Started TCP hijack on 127.0.0.1:8080
